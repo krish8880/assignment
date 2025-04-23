@@ -1,0 +1,7 @@
+apple:12
+grapce:18
+mango:10
+green apple:16
+orange:5
+kiwi:10
+stawberry:5
